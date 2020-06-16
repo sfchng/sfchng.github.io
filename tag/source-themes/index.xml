@@ -5,12 +5,20 @@
     <link>https://sfchng.github.io/tag/source-themes/</link>
       <atom:link href="https://sfchng.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sfchng.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Source Themes</title>
       <link>https://sfchng.github.io/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Outlier-Robust Manifold Pre-Integration for INS/GPS Fusion</title>
+      <link>https://sfchng.github.io/publication/conference-paper_2/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://sfchng.github.io/publication/conference-paper_2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example journal article</title>
@@ -30,14 +38,6 @@
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Outlier-Robust Manifold Pre-Integration for INS/GPS Fusion</title>
-      <link>https://sfchng.github.io/publication/conference-paper_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sfchng.github.io/publication/conference-paper_2/</guid>
-      <description></description>
     </item>
     
     <item>
