@@ -5,7 +5,7 @@
     <link>https://sfchng.github.io/author/tat-jun-chin/</link>
       <atom:link href="https://sfchng.github.io/author/tat-jun-chin/index.xml" rel="self" type="application/rss+xml" />
     <description>Tat-Jun Chin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sfchng.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tat-Jun Chin</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Outlier-Robust Manifold Pre-Integration for INS/GPS Fusion</title>
-      <link>https://sfchng.github.io/publication/conference-paper_2/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://sfchng.github.io/publication/conference-paper_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Quantum Robust Fitting</title>
       <link>https://sfchng.github.io/publication/preprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://sfchng.github.io/publication/preprint/</guid>
       <description></description>
     </item>
@@ -31,7 +23,7 @@
     <item>
       <title>Resolving Marker Pose Ambiguity by Robust Rotation Averaging with Clique Constraints</title>
       <link>https://sfchng.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://sfchng.github.io/publication/conference-paper/</guid>
       <description></description>
     </item>
@@ -39,8 +31,16 @@
     <item>
       <title>Visual Localization Under Appearance Change: A Filtering Approach</title>
       <link>https://sfchng.github.io/publication/collab_paper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://sfchng.github.io/publication/collab_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outlier-Robust Manifold Pre-Integration for INS/GPS Fusion</title>
+      <link>https://sfchng.github.io/publication/conference-paper_2/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://sfchng.github.io/publication/conference-paper_2/</guid>
       <description></description>
     </item>
     
