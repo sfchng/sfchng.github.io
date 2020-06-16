@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sfchng.github.io/publication-type/3/</loc>
+  </url>
+  
+  <url>
     <loc>https://sfchng.github.io/</loc>
   </url>
   
@@ -12,6 +16,14 @@
   
   <url>
     <loc>https://sfchng.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sfchng.github.io/author/david-suter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sfchng.github.io/author/james-quach/</loc>
   </url>
   
   <url>
@@ -27,7 +39,15 @@
   </url>
   
   <url>
+    <loc>https://sfchng.github.io/publication/conference-paper/</loc>
+  </url>
+  
+  <url>
     <loc>https://sfchng.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sfchng.github.io/author/shin-fang-chng/</loc>
   </url>
   
   <url>
@@ -39,7 +59,7 @@
   </url>
   
   <url>
-    <loc>https://sfchng.github.io/author/tat-jun-chin-david-suter-shin-fang-chng-james-quach/</loc>
+    <loc>https://sfchng.github.io/author/tat-jun-chin/</loc>
   </url>
   
 </urlset>
