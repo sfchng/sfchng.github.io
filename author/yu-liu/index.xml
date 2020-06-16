@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anh-Dzung Doan | Academic</title>
-    <link>https://sfchng.github.io/author/anh-dzung-doan/</link>
-      <atom:link href="https://sfchng.github.io/author/anh-dzung-doan/index.xml" rel="self" type="application/rss+xml" />
-    <description>Anh-Dzung Doan</description>
+    <title>Yu Liu | Academic</title>
+    <link>https://sfchng.github.io/author/yu-liu/</link>
+      <atom:link href="https://sfchng.github.io/author/yu-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Liu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://sfchng.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Anh-Dzung Doan</title>
-      <link>https://sfchng.github.io/author/anh-dzung-doan/</link>
+      <title>Yu Liu</title>
+      <link>https://sfchng.github.io/author/yu-liu/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sfchng.github.io/publication/collab_paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sfchng.github.io/publication/collab_paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outlier-Robust Manifold Pre-Integration for INS/GPS Fusion</title>
-      <link>https://sfchng.github.io/publication/conference-paper_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sfchng.github.io/publication/conference-paper_2/</guid>
       <description></description>
     </item>
     
