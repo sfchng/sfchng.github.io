@@ -12,8 +12,13 @@
       <link>https://sfchng.github.io/author/shin-fang-chng/</link>
     </image>
     
-  </channel>
-</rss>
- 
+    <item>
+      <title>Quantum Robust Fitting</title>
+      <link>https://sfchng.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sfchng.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
